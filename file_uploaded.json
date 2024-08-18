@@ -1,0 +1,16 @@
+{
+    "files": [
+        {
+            "id": "c7ae1153-a8d4-4096-bc2b-95c9d5c65e85",
+            "chat_target": "me",
+            "file_path": "README.md",
+            "parts": [
+                {
+                    "order": 1,
+                    "message_id": 13049,
+                    "file_path": "README.md"
+                }
+            ]
+        }
+    ]
+}
